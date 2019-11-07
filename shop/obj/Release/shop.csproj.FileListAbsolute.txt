@@ -1,0 +1,86 @@
+C:\Users\Keramot\Desktop\Mobile shop Management System1\Mobile shop Management System1\Mobile Shop Management System\shop\bin\Release\M.N Shop.exe.config
+C:\Users\Keramot\Desktop\Mobile shop Management System1\Mobile shop Management System1\Mobile Shop Management System\shop\bin\Release\M.N Shop.exe.manifest
+C:\Users\Keramot\Desktop\Mobile shop Management System1\Mobile shop Management System1\Mobile Shop Management System\shop\bin\Release\M.N Shop.application
+C:\Users\Keramot\Desktop\Mobile shop Management System1\Mobile shop Management System1\Mobile Shop Management System\shop\bin\Release\M.N Shop.exe
+C:\Users\Keramot\Desktop\Mobile shop Management System1\Mobile shop Management System1\Mobile Shop Management System\shop\bin\Release\EntityFramework.dll
+C:\Users\Keramot\Desktop\Mobile shop Management System1\Mobile shop Management System1\Mobile Shop Management System\shop\bin\Release\EntityFramework.xml
+C:\Users\Keramot\Desktop\Mobile shop Management System1\Mobile shop Management System1\Mobile Shop Management System\shop\obj\Release\shop.About.resources
+C:\Users\Keramot\Desktop\Mobile shop Management System1\Mobile shop Management System1\Mobile Shop Management System\shop\obj\Release\shop.Add_Catagories.resources
+C:\Users\Keramot\Desktop\Mobile shop Management System1\Mobile shop Management System1\Mobile Shop Management System\shop\obj\Release\shop.add_Item_Record.resources
+C:\Users\Keramot\Desktop\Mobile shop Management System1\Mobile shop Management System1\Mobile Shop Management System\shop\obj\Release\shop.add_phone.resources
+C:\Users\Keramot\Desktop\Mobile shop Management System1\Mobile shop Management System1\Mobile Shop Management System\shop\obj\Release\shop.Add_supplier.resources
+C:\Users\Keramot\Desktop\Mobile shop Management System1\Mobile shop Management System1\Mobile Shop Management System\shop\obj\Release\shop.Additems.resources
+C:\Users\Keramot\Desktop\Mobile shop Management System1\Mobile shop Management System1\Mobile Shop Management System\shop\obj\Release\shop.Bank_S_N.resources
+C:\Users\Keramot\Desktop\Mobile shop Management System1\Mobile shop Management System1\Mobile Shop Management System\shop\obj\Release\shop.Banking.resources
+C:\Users\Keramot\Desktop\Mobile shop Management System1\Mobile shop Management System1\Mobile Shop Management System\shop\obj\Release\shop.Bill_Record.resources
+C:\Users\Keramot\Desktop\Mobile shop Management System1\Mobile shop Management System1\Mobile Shop Management System\shop\obj\Release\shop.Expenses.resources
+C:\Users\Keramot\Desktop\Mobile shop Management System1\Mobile shop Management System1\Mobile Shop Management System\shop\obj\Release\shop.FInd_Record.resources
+C:\Users\Keramot\Desktop\Mobile shop Management System1\Mobile shop Management System1\Mobile Shop Management System\shop\obj\Release\shop.Form1.resources
+C:\Users\Keramot\Desktop\Mobile shop Management System1\Mobile shop Management System1\Mobile Shop Management System\shop\obj\Release\shop.Form2.resources
+C:\Users\Keramot\Desktop\Mobile shop Management System1\Mobile shop Management System1\Mobile Shop Management System\shop\obj\Release\shop.invoice.resources
+C:\Users\Keramot\Desktop\Mobile shop Management System1\Mobile shop Management System1\Mobile Shop Management System\shop\obj\Release\shop.Item.resources
+C:\Users\Keramot\Desktop\Mobile shop Management System1\Mobile shop Management System1\Mobile Shop Management System\shop\obj\Release\shop.Leger.resources
+C:\Users\Keramot\Desktop\Mobile shop Management System1\Mobile shop Management System1\Mobile Shop Management System\shop\obj\Release\shop.Main.resources
+C:\Users\Keramot\Desktop\Mobile shop Management System1\Mobile shop Management System1\Mobile Shop Management System\shop\obj\Release\shop.owner_pannal.resources
+C:\Users\Keramot\Desktop\Mobile shop Management System1\Mobile shop Management System1\Mobile Shop Management System\shop\obj\Release\shop.owner_login.resources
+C:\Users\Keramot\Desktop\Mobile shop Management System1\Mobile shop Management System1\Mobile Shop Management System\shop\obj\Release\shop.Payment_Record.resources
+C:\Users\Keramot\Desktop\Mobile shop Management System1\Mobile shop Management System1\Mobile Shop Management System\shop\obj\Release\shop.Properties.Resources.resources
+C:\Users\Keramot\Desktop\Mobile shop Management System1\Mobile shop Management System1\Mobile Shop Management System\shop\obj\Release\shop.Purchase.resources
+C:\Users\Keramot\Desktop\Mobile shop Management System1\Mobile shop Management System1\Mobile Shop Management System\shop\obj\Release\shop.shop_Detail.resources
+C:\Users\Keramot\Desktop\Mobile shop Management System1\Mobile shop Management System1\Mobile Shop Management System\shop\obj\Release\shop.show_ph_record.resources
+C:\Users\Keramot\Desktop\Mobile shop Management System1\Mobile shop Management System1\Mobile Shop Management System\shop\obj\Release\shop.update_owner_password.resources
+C:\Users\Keramot\Desktop\Mobile shop Management System1\Mobile shop Management System1\Mobile Shop Management System\shop\obj\Release\shop.Update_Password.resources
+C:\Users\Keramot\Desktop\Mobile shop Management System1\Mobile shop Management System1\Mobile Shop Management System\shop\obj\Release\shop.update_Purchase.resources
+C:\Users\Keramot\Desktop\Mobile shop Management System1\Mobile shop Management System1\Mobile Shop Management System\shop\obj\Release\shop.use_wtch_record.resources
+C:\Users\Keramot\Desktop\Mobile shop Management System1\Mobile shop Management System1\Mobile Shop Management System\shop\obj\Release\shop.User_Account.resources
+C:\Users\Keramot\Desktop\Mobile shop Management System1\Mobile shop Management System1\Mobile Shop Management System\shop\obj\Release\shop.csproj.GenerateResource.cache
+C:\Users\Keramot\Desktop\Mobile shop Management System1\Mobile shop Management System1\Mobile Shop Management System\shop\obj\Release\M.N Shop.exe.manifest
+C:\Users\Keramot\Desktop\Mobile shop Management System1\Mobile shop Management System1\Mobile Shop Management System\shop\obj\Release\M.N Shop.application
+C:\Users\Keramot\Desktop\Mobile shop Management System1\Mobile shop Management System1\Mobile Shop Management System\shop\obj\Release\shop.csproj.CopyComplete
+C:\Users\Keramot\Desktop\Mobile shop Management System1\Mobile shop Management System1\Mobile Shop Management System\shop\obj\Release\M.N Shop.exe
+C:\Users\Keramot\Desktop\Mobile shop Management System1\Mobile shop Management System1\Mobile Shop Management System\shop\obj\Release\M.N Shop.pdb
+C:\Users\Keramot\Desktop\Mobile shop Management System1\Mobile shop Management System1\Mobile Shop Management System\shop\obj\Release\shop.csprojAssemblyReference.cache
+C:\Users\Keramot\Desktop\Mobile shop Management System1\Mobile shop Management System1\Mobile Shop Management System\shop\bin\Release\M.N Shop.pdb
+C:\Users\Keramot\Desktop\Mobile Shop Management System\shop\bin\Release\M.N Shop.exe.config
+C:\Users\Keramot\Desktop\Mobile Shop Management System\shop\bin\Release\M.N Shop.exe.manifest
+C:\Users\Keramot\Desktop\Mobile Shop Management System\shop\bin\Release\M.N Shop.application
+C:\Users\Keramot\Desktop\Mobile Shop Management System\shop\bin\Release\M.N Shop.exe
+C:\Users\Keramot\Desktop\Mobile Shop Management System\shop\bin\Release\M.N Shop.pdb
+C:\Users\Keramot\Desktop\Mobile Shop Management System\shop\bin\Release\EntityFramework.dll
+C:\Users\Keramot\Desktop\Mobile Shop Management System\shop\bin\Release\EntityFramework.xml
+C:\Users\Keramot\Desktop\Mobile Shop Management System\shop\obj\Release\shop.csprojAssemblyReference.cache
+C:\Users\Keramot\Desktop\Mobile Shop Management System\shop\obj\Release\shop.About.resources
+C:\Users\Keramot\Desktop\Mobile Shop Management System\shop\obj\Release\shop.Add_Catagories.resources
+C:\Users\Keramot\Desktop\Mobile Shop Management System\shop\obj\Release\shop.add_Item_Record.resources
+C:\Users\Keramot\Desktop\Mobile Shop Management System\shop\obj\Release\shop.add_phone.resources
+C:\Users\Keramot\Desktop\Mobile Shop Management System\shop\obj\Release\shop.Add_supplier.resources
+C:\Users\Keramot\Desktop\Mobile Shop Management System\shop\obj\Release\shop.Additems.resources
+C:\Users\Keramot\Desktop\Mobile Shop Management System\shop\obj\Release\shop.Bank_S_N.resources
+C:\Users\Keramot\Desktop\Mobile Shop Management System\shop\obj\Release\shop.Banking.resources
+C:\Users\Keramot\Desktop\Mobile Shop Management System\shop\obj\Release\shop.Bill_Record.resources
+C:\Users\Keramot\Desktop\Mobile Shop Management System\shop\obj\Release\shop.Expenses.resources
+C:\Users\Keramot\Desktop\Mobile Shop Management System\shop\obj\Release\shop.FInd_Record.resources
+C:\Users\Keramot\Desktop\Mobile Shop Management System\shop\obj\Release\shop.Form1.resources
+C:\Users\Keramot\Desktop\Mobile Shop Management System\shop\obj\Release\shop.Form2.resources
+C:\Users\Keramot\Desktop\Mobile Shop Management System\shop\obj\Release\shop.invoice.resources
+C:\Users\Keramot\Desktop\Mobile Shop Management System\shop\obj\Release\shop.Item.resources
+C:\Users\Keramot\Desktop\Mobile Shop Management System\shop\obj\Release\shop.Leger.resources
+C:\Users\Keramot\Desktop\Mobile Shop Management System\shop\obj\Release\shop.Main.resources
+C:\Users\Keramot\Desktop\Mobile Shop Management System\shop\obj\Release\shop.owner_pannal.resources
+C:\Users\Keramot\Desktop\Mobile Shop Management System\shop\obj\Release\shop.owner_login.resources
+C:\Users\Keramot\Desktop\Mobile Shop Management System\shop\obj\Release\shop.Payment_Record.resources
+C:\Users\Keramot\Desktop\Mobile Shop Management System\shop\obj\Release\shop.Properties.Resources.resources
+C:\Users\Keramot\Desktop\Mobile Shop Management System\shop\obj\Release\shop.Purchase.resources
+C:\Users\Keramot\Desktop\Mobile Shop Management System\shop\obj\Release\shop.shop_Detail.resources
+C:\Users\Keramot\Desktop\Mobile Shop Management System\shop\obj\Release\shop.show_ph_record.resources
+C:\Users\Keramot\Desktop\Mobile Shop Management System\shop\obj\Release\shop.update_owner_password.resources
+C:\Users\Keramot\Desktop\Mobile Shop Management System\shop\obj\Release\shop.Update_Password.resources
+C:\Users\Keramot\Desktop\Mobile Shop Management System\shop\obj\Release\shop.update_Purchase.resources
+C:\Users\Keramot\Desktop\Mobile Shop Management System\shop\obj\Release\shop.use_wtch_record.resources
+C:\Users\Keramot\Desktop\Mobile Shop Management System\shop\obj\Release\shop.User_Account.resources
+C:\Users\Keramot\Desktop\Mobile Shop Management System\shop\obj\Release\shop.csproj.GenerateResource.cache
+C:\Users\Keramot\Desktop\Mobile Shop Management System\shop\obj\Release\M.N Shop.exe.manifest
+C:\Users\Keramot\Desktop\Mobile Shop Management System\shop\obj\Release\M.N Shop.application
+C:\Users\Keramot\Desktop\Mobile Shop Management System\shop\obj\Release\shop.csproj.CopyComplete
+C:\Users\Keramot\Desktop\Mobile Shop Management System\shop\obj\Release\M.N Shop.exe
+C:\Users\Keramot\Desktop\Mobile Shop Management System\shop\obj\Release\M.N Shop.pdb

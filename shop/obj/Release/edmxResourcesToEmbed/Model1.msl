@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="shopModelStoreContainer" CdmEntityContainer="shopEntities">
+    <EntitySetMapping Name="invoice_t">
+      <EntityTypeMapping TypeName="shopModel.invoice_t">
+        <MappingFragment StoreEntitySet="invoice_t">
+          <ScalarProperty Name="id_num" ColumnName="id_num" />
+          <ScalarProperty Name="invoice_number" ColumnName="invoice_number" />
+          <ScalarProperty Name="customer_name" ColumnName="customer_name" />
+          <ScalarProperty Name="product_name" ColumnName="product_name" />
+          <ScalarProperty Name="Price" ColumnName="Price" />
+          <ScalarProperty Name="Quantity" ColumnName="Quantity" />
+          <ScalarProperty Name="total_Amount" ColumnName="total_Amount" />
+          <ScalarProperty Name="Date" ColumnName="Date" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

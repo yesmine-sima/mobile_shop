@@ -1,0 +1,43 @@
+C:\Users\Keramot\Desktop\Mobile Shop Management System\shop\bin\Debug\M.N Shop.exe.config
+C:\Users\Keramot\Desktop\Mobile Shop Management System\shop\bin\Debug\M.N Shop.exe.manifest
+C:\Users\Keramot\Desktop\Mobile Shop Management System\shop\bin\Debug\M.N Shop.application
+C:\Users\Keramot\Desktop\Mobile Shop Management System\shop\bin\Debug\M.N Shop.exe
+C:\Users\Keramot\Desktop\Mobile Shop Management System\shop\bin\Debug\M.N Shop.pdb
+C:\Users\Keramot\Desktop\Mobile Shop Management System\shop\bin\Debug\EntityFramework.dll
+C:\Users\Keramot\Desktop\Mobile Shop Management System\shop\bin\Debug\EntityFramework.xml
+C:\Users\Keramot\Desktop\Mobile Shop Management System\shop\obj\Debug\shop.csprojAssemblyReference.cache
+C:\Users\Keramot\Desktop\Mobile Shop Management System\shop\obj\Debug\shop.About.resources
+C:\Users\Keramot\Desktop\Mobile Shop Management System\shop\obj\Debug\shop.Add_Catagories.resources
+C:\Users\Keramot\Desktop\Mobile Shop Management System\shop\obj\Debug\shop.add_Item_Record.resources
+C:\Users\Keramot\Desktop\Mobile Shop Management System\shop\obj\Debug\shop.add_phone.resources
+C:\Users\Keramot\Desktop\Mobile Shop Management System\shop\obj\Debug\shop.Add_supplier.resources
+C:\Users\Keramot\Desktop\Mobile Shop Management System\shop\obj\Debug\shop.Additems.resources
+C:\Users\Keramot\Desktop\Mobile Shop Management System\shop\obj\Debug\shop.Bank_S_N.resources
+C:\Users\Keramot\Desktop\Mobile Shop Management System\shop\obj\Debug\shop.Banking.resources
+C:\Users\Keramot\Desktop\Mobile Shop Management System\shop\obj\Debug\shop.Bill_Record.resources
+C:\Users\Keramot\Desktop\Mobile Shop Management System\shop\obj\Debug\shop.Expenses.resources
+C:\Users\Keramot\Desktop\Mobile Shop Management System\shop\obj\Debug\shop.FInd_Record.resources
+C:\Users\Keramot\Desktop\Mobile Shop Management System\shop\obj\Debug\shop.Form1.resources
+C:\Users\Keramot\Desktop\Mobile Shop Management System\shop\obj\Debug\shop.Form2.resources
+C:\Users\Keramot\Desktop\Mobile Shop Management System\shop\obj\Debug\shop.invoice.resources
+C:\Users\Keramot\Desktop\Mobile Shop Management System\shop\obj\Debug\shop.Item.resources
+C:\Users\Keramot\Desktop\Mobile Shop Management System\shop\obj\Debug\shop.Leger.resources
+C:\Users\Keramot\Desktop\Mobile Shop Management System\shop\obj\Debug\shop.Main.resources
+C:\Users\Keramot\Desktop\Mobile Shop Management System\shop\obj\Debug\shop.owner_pannal.resources
+C:\Users\Keramot\Desktop\Mobile Shop Management System\shop\obj\Debug\shop.owner_login.resources
+C:\Users\Keramot\Desktop\Mobile Shop Management System\shop\obj\Debug\shop.Payment_Record.resources
+C:\Users\Keramot\Desktop\Mobile Shop Management System\shop\obj\Debug\shop.Properties.Resources.resources
+C:\Users\Keramot\Desktop\Mobile Shop Management System\shop\obj\Debug\shop.Purchase.resources
+C:\Users\Keramot\Desktop\Mobile Shop Management System\shop\obj\Debug\shop.shop_Detail.resources
+C:\Users\Keramot\Desktop\Mobile Shop Management System\shop\obj\Debug\shop.show_ph_record.resources
+C:\Users\Keramot\Desktop\Mobile Shop Management System\shop\obj\Debug\shop.update_owner_password.resources
+C:\Users\Keramot\Desktop\Mobile Shop Management System\shop\obj\Debug\shop.Update_Password.resources
+C:\Users\Keramot\Desktop\Mobile Shop Management System\shop\obj\Debug\shop.update_Purchase.resources
+C:\Users\Keramot\Desktop\Mobile Shop Management System\shop\obj\Debug\shop.use_wtch_record.resources
+C:\Users\Keramot\Desktop\Mobile Shop Management System\shop\obj\Debug\shop.User_Account.resources
+C:\Users\Keramot\Desktop\Mobile Shop Management System\shop\obj\Debug\shop.csproj.GenerateResource.cache
+C:\Users\Keramot\Desktop\Mobile Shop Management System\shop\obj\Debug\M.N Shop.exe.manifest
+C:\Users\Keramot\Desktop\Mobile Shop Management System\shop\obj\Debug\M.N Shop.application
+C:\Users\Keramot\Desktop\Mobile Shop Management System\shop\obj\Debug\shop.csproj.CopyComplete
+C:\Users\Keramot\Desktop\Mobile Shop Management System\shop\obj\Debug\M.N Shop.exe
+C:\Users\Keramot\Desktop\Mobile Shop Management System\shop\obj\Debug\M.N Shop.pdb
